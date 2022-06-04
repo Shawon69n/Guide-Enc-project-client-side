@@ -5,7 +5,7 @@ import Slider from './Slider';
 const Home = () => {
     return (
         <div>
-            <div className='flex items-center justify-evenly'>
+            <div className='flex items-center justify-evenly mb-48'>
                 <Slider></Slider>
                 <div>
                     <h1 className='font-thin  text-5xl'>Let's go and explore the wild</h1>

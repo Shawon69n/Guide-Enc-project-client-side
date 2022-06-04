@@ -3,7 +3,7 @@ import React from 'react';
 const Package = () => {
     return (
         <>
-            <div className='mt-64'>
+            <div id='services' className='mt-20'>
                 <h1 className='mb-10 font-thin text-3xl'>Our Packages</h1>
                 <div className='grid grid-cols-3 ml-24 '>
                     <div class="card w-96 glass">
