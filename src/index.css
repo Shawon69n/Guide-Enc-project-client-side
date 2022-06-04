@@ -1,13 +1,36 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* *{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-weight: 100;
+  font-family: 'Open Sans', sans-serif;
+  cursor: noe;
+} */
+body{
+  background: url('https://images.pexels.com/photos/192136/pexels-photo-192136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') repeat fixed 100%;
+  background-size: cover;
+  color: aliceblue;
+  cursor: none;
+  padding-bottom: 20%;
+}
+/* .parallax-1{
+  background: url('https://images.pexels.com/photos/3369569/pexels-photo-3369569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') repeat fixed 100%;
+  background-size: cover;
+  color: aliceblue;
+}
+.parallax-2{
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR88s3uYLE7PwcqaBh8vRWUOlk5oWB6HrO5asbrbsTywOx6peVtPL9pnhwleY1epIlkSw&usqp=CAU') repeat fixed 100%;
+  background-size: cover;
+  color: aliceblue;
+} */
+
+h3{
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }

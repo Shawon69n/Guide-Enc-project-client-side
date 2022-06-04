@@ -1,0 +1,32 @@
+.swiper {
+    width: 440px;
+    height: 340px;
+  }
+  
+  .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  .swiper-slide:nth-child(1n) {
+    background: url('https://image.shutterstock.com/image-photo/funchal-portugal-july-20-2017-260nw-1480727462.jpg');
+  }
+  .swiper-slide:nth-child(2n) {
+    background: url('https://img.huffingtonpost.com/asset/59ac3fef170000280028805a.jpg?ops=scalefit_720_noupscale');
+  }
+  
+  .swiper-slide:nth-child(3n) {
+    background: url('https://media.gettyimages.com/photos/young-man-and-guide-use-binoculars-in-mountains-picture-id1191375445?s=612x612');
+  }
+  
+  .swiper-slide:nth-child(4n) {
+    background: url('https://operatorresources.viator.com/wp-content/uploads/2019/03/hikers.jpg');
+  }
+  
+  
+  
