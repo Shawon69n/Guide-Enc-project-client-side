@@ -5,7 +5,6 @@ import Login from './Authentication/Login';
 import Contact from './components/Contact';
 import Home from './components/Home';
 import Navbar from './components/Navbar';
-import Package from './components/Package';
 
 function App() {
   return (
