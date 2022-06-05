@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
     return (
         <div>
-            <footer class="footer footer-center foote text-white mt-24 p-10 bg-emerald-400 bg-opacity-25  rounded">
+            <footer class="footer footer-center foote text-white mt-24 p-10 bg-black bg-opacity-95  rounded">
   <div class="grid grid-flow-col gap-4">
     <a href=' ' class="link link-hover">About us</a> 
     <a href=' ' class="link link-hover">Contact</a> 

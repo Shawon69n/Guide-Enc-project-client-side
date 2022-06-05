@@ -11,11 +11,23 @@
   cursor: noe;
 } */
 body{
-  background: url('https://images.pexels.com/photos/192136/pexels-photo-192136.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') repeat fixed 100%;
+  background: url('https://img.freepik.com/free-photo/flat-lay-yellow-luggage-with-copy-space_23-2148786124.jpg?t=st=1654421001~exp=1654421601~hmac=6803ece0249c154b1c8458ae85b0fd43025585b187f1742d8f94468c124ba407&w=1060') repeat fixed 100%;
   background-size: cover;
   color: aliceblue;
   cursor: none;
 }
+
+#services{
+  background: rgba(78, 76, 76, 0.534);
+  padding: 40px 20px 100px;
+  border-radius: 50px;
+}
+
+.login-box-shadow{
+  border: 3px solid yellow;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
 /* .parallax-1{
   background: url('https://images.pexels.com/photos/3369569/pexels-photo-3369569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') repeat fixed 100%;
   background-size: cover;
