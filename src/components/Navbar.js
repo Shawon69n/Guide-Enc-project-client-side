@@ -16,7 +16,7 @@ const Navbar = () => {
 
           </ul>
         </div>
-        <a href="/" class="btn btn-ghost normal-case text-3xl ml-5">GuideEnc</a>
+        <a href="/" class="btn btn-ghost normal-case text-3xl ml-5">Air Privo.</a>
       </div>
       <div class="navbar-center hidden lg:flex">
         <ul class="menu menu-horizontal p-0">

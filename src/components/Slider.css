@@ -1,6 +1,6 @@
 .swiper {
-    width: 440px;
-    height: 340px;
+    width: 500px;
+    height: 440px;
   }
   
   .swiper-slide {
@@ -11,21 +11,22 @@
     font-size: 22px;
     font-weight: bold;
     color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
   }
   
   .swiper-slide:nth-child(1n) {
-    background: url('https://image.shutterstock.com/image-photo/funchal-portugal-july-20-2017-260nw-1480727462.jpg');
+    background: url('https://www.stratosjets.com/wp-content/uploads/2017/02/slot-restrictions-for-charter-flights3.jpg') no-repeat 100% ;
   }
   .swiper-slide:nth-child(2n) {
-    background: url('https://img.huffingtonpost.com/asset/59ac3fef170000280028805a.jpg?ops=scalefit_720_noupscale');
+    background: url('https://www.e-architect.com/images/jpgs/england/london_luton_airport_terminal_m290113_4.jpg');
   }
   
   .swiper-slide:nth-child(3n) {
-    background: url('https://media.gettyimages.com/photos/young-man-and-guide-use-binoculars-in-mountains-picture-id1191375445?s=612x612');
+    background: url('https://elitetraveler.com/wp-content/uploads/2012/11/27642165-H1-Taj-Air2000LXInteriors.jpg');
   }
   
   .swiper-slide:nth-child(4n) {
-    background: url('https://operatorresources.viator.com/wp-content/uploads/2019/03/hikers.jpg');
+    background: url('https://ml.globenewswire.com/Resource/Download/7cef79ca-3b67-48f7-ad57-b9ced602503c?size=3');
   }
   
   
